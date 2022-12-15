@@ -1,0 +1,12 @@
+{
+  "1": "extends Thread",
+  "2": "implements Runnable",
+  "3": "start",
+  "4": "synchronize",
+  "5": "notify",
+  "6": "notifyAll",
+  "7": "生产者消费者模式",
+  "8": "extends Thread",
+  "9": "new Thread(process2).start();",
+  "10": "C"
+}

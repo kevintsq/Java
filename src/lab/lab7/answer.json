@@ -1,0 +1,11 @@
+{
+  "1" : "D",
+  "2" : "exercise1",
+  "3" : ["energy","favoriteSport","knowledge","money","strength","double","Sport","int","int","int","满足"],
+  "4" : "B",
+  "5" : ["changeChannel","Customer","Television","updateVolume","Television","Television"],
+  "6" : ["是","reply"],
+  "7" : "C",
+  "8" : ["stockAvailable()","Merchant.deliverStock()"],
+  "9" : ["stockup","finished","goodsLost()","goodsArrived()"]
+}

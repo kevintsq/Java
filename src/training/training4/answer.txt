@@ -1,0 +1,13 @@
+{
+  "1": ["2", "1", "Vehicle", "Tractor", "Car", "Car", "Vehicle"],
+  "2": ["capacity", "int", "private", "move"],
+  "3": "A",
+  "4": ["AAAAAAF18GWjgmTsI78=", "AAAAAAF18GI3OmTC3WA="],
+  "5": ["Student", "Teacher", "Teacher", "Student"],
+  "6": ["AAAAAAF19XLpbhy/X1E=", "reply", "MusicPlayer", "User", "music"],
+  "7": ["3", "4", "3", "1"],
+  "8": ["AAAAAAF19XnUAZVUTLU=", "AAAAAAF19Xn4O5V2Qqg="],
+  "9": ["6", "S3", "S0", "S1, S2, S3", "t3, t4, t5"],
+  "10": ["State1", "AAAAAAF2A/NfI7C6vaQ=", "AAAAAAF2A/MtgrCQ9wg=", "State3"],
+  "11": ["1==1", "Event1()", "Eventxxx()", "System.exit(0)", "AAAAAAF2BC4MBkZ3hAw="]
+}

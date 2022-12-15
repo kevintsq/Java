@@ -1,0 +1,11 @@
+{
+  "1" : ["Client", "Door", "isOpen"],
+  "2" : ["lock", "类Door从状态opened转移到状态closed"],
+  "3" : "locateRoom",
+  "4" : "Lock",
+  "5" : "guests",
+  "6" : ["Client", "Door", "依赖"],
+  "7" : ["!(guests.size()>9)", "guests.size()==9", "9"],
+  "8" : ["trying<=5", "trying>4", "trying2Open", "trying2Open"],
+  "9" : ["unlock", "lock"]
+}

@@ -1,0 +1,17 @@
+{
+  "1": "processingQueue.notifyAll();",
+  "2": "processingQueues",
+  "3": "processingQueues.get(0).addRequest(request);",
+  "4": "processingQueues",
+  "5": "processingQueues.get(1).addRequest(request);",
+  "6": "processingQueues",
+  "7": "processingQueues.get(2).addRequest(request);",
+  "8": "return \"<destination:\" + destination + \"FROM-\" + leaveTime + \"-TO-\" + backTime + \">\";",
+  "9": "waitQueues",
+  "10": "processingQueue",
+  "11": [
+    "dealBeijingRequest();",
+    "dealDomesticRequest();",
+    "dealForeign();"
+  ]
+}
